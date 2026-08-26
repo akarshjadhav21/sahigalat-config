@@ -1509,13 +1509,201 @@
      }
     }
    }
+  },
+  "tn": {
+   "10": {
+    "english": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl10-eng-17wh0kSN.pdf",
+       "o": "https://drive.google.com/file/d/17wh0kSN3y5Dq3FWOGrLEWGTlc_VchVIx/view"
+      }
+     }
+    },
+    "hindi": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl10-hin-1Vcqop0V.pdf",
+       "o": "https://drive.google.com/file/d/1Vcqop0ViamyNfggJtcbajBypHPAOoVP_/view"
+      }
+     }
+    },
+    "maths": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl10-mat-1-85nds7.pdf",
+       "o": "https://drive.google.com/file/d/1-85nds7DdI67xwKotODkknNYKAVLD1HY/view"
+      }
+     }
+    },
+    "science": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl10-sci-14gfmI5k.pdf",
+       "o": "https://drive.google.com/file/d/14gfmI5kkfCtenxjDAb1DQZqbJ6qF0Qra/view"
+      }
+     }
+    },
+    "tamil": {
+     "full": {
+      "t": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl10-tam-126HDzwg.pdf",
+       "o": "https://drive.google.com/file/d/126HDzwgKz1gNaSXWJSow2upisHXVe57-/view"
+      }
+     }
+    },
+    "urdu": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl10-urd-1jRRH8g8.pdf",
+       "o": "https://drive.google.com/file/d/1jRRH8g8w_aQB-dyn8wi-n0KPUznpo4jH/view"
+      }
+     }
+    }
+   },
+   "6": {
+    "english": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl6-eng-17nzQtBb.pdf",
+       "o": "https://drive.google.com/file/d/17nzQtBbmD4kPf94m_nZ4_WMgMd6kCWJ1/view"
+      }
+     }
+    },
+    "maths": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl6-mat-11CojQwk.pdf",
+       "o": "https://drive.google.com/file/d/11CojQwk9eoK6sMAFizBbhkHbNB3EUTGj/view"
+      }
+     }
+    },
+    "science": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl6-sci-122TgmnJ.pdf",
+       "o": "https://drive.google.com/file/d/122TgmnJFg1clAzv3XaaBFi4HYeykVHyt/view"
+      }
+     }
+    },
+    "tamil": {
+     "full": {
+      "t": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl6-tam-1OI4lSN0.pdf",
+       "o": "https://drive.google.com/file/d/1OI4lSN0EqO1yHSuaMR2wuS8kNWscvy_X/view"
+      }
+     }
+    }
+   },
+   "7": {
+    "english": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl7-eng-1MYO8Kv9.pdf",
+       "o": "https://drive.google.com/file/d/1MYO8Kv9YYvtZeTAJ5Jw7BYHkMuvb7ebm/view"
+      }
+     }
+    },
+    "maths": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl7-mat-19W_5dEE.pdf",
+       "o": "https://drive.google.com/file/d/19W_5dEEnLrznHSq2FiYd88_ITr_QvaJu/view"
+      }
+     }
+    },
+    "science": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl7-sci-106M_WS1.pdf",
+       "o": "https://drive.google.com/file/d/106M_WS1ythsrrCPwuIwq0uQpMHxnFqi2/view"
+      }
+     }
+    },
+    "tamil": {
+     "full": {
+      "t": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl7-tam-1IvIPrpx.pdf",
+       "o": "https://drive.google.com/file/d/1IvIPrpxpgZn15jmn_Um1gWCMDX_VyVxm/view"
+      }
+     }
+    }
+   },
+   "8": {
+    "english": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl8-eng-11UydJ3z.pdf",
+       "o": "https://drive.google.com/file/d/11UydJ3z4w9yrCopV_XjO86BJ1IYPmMZQ/view"
+      }
+     }
+    },
+    "maths": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl8-mat-10pGDBig.pdf",
+       "o": "https://drive.google.com/file/d/10pGDBigsvjO_ch_yQnCY8M3O6Uf06Yvb/view"
+      }
+     }
+    },
+    "science": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl8-sci-1BL2h0oV.pdf",
+       "o": "https://drive.google.com/file/d/1BL2h0oVf8JBS7wpbQZwbuxce2tRXByVf/view"
+      }
+     }
+    },
+    "tamil": {
+     "full": {
+      "t": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl8-tam-1gZL_2CX.pdf",
+       "o": "https://drive.google.com/file/d/1gZL_2CXBM-40x6Lo2ctp6tBs-VOFOpyS/view"
+      }
+     }
+    }
+   },
+   "9": {
+    "english": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl9-eng-1YEpBX4S.pdf",
+       "o": "https://drive.google.com/file/d/1YEpBX4SdbVTMuhaERpYTpUkhwoNO2RvD/view"
+      }
+     }
+    },
+    "maths": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl9-mat-1WxLnjLP.pdf",
+       "o": "https://drive.google.com/file/d/1WxLnjLPhAGkTylUHNFvh8UL34Z8eqC4J/view"
+      }
+     }
+    },
+    "science": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl9-sci-1BmvNWHU.pdf",
+       "o": "https://drive.google.com/file/d/1BmvNWHU5y92DDIRy71aUuy-enaMACNlp/view"
+      }
+     }
+    },
+    "tamil": {
+     "full": {
+      "t": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/tn-books/tn-cl9-tam-1IqE9Xzr.pdf",
+       "o": "https://drive.google.com/file/d/1IqE9XzrctCmKUX-o4UjMFgiAZh8BKmup/view"
+      }
+     }
+    }
+   }
   }
  },
  "_meta": {
   "verified": "2026-08-25",
   "mirrored": "2026-08-25",
   "format": "v2.1: m=mirror, o=official; subj.full = whole-book (new apps only)",
-  "note": "wave1: NCERT cl6-10 sci/mat/soc/eng per-chapter + full books; hin/san full-only; soc 6-8 approximate index mapping to integrated new editions",
+  "note": "wave1: NCERT cl6-10 sci/mat/soc/eng per-chapter + full books; hin/san full-only; soc 6-8 approximate index mapping to integrated new editions; wave2: TN SCERT cl6-10 whole books (u=EN med, t=TA med); wave2: TN SCERT cl6-10 whole books (u=EN med, t=TA med)",
   "books": 69
  }
 }
