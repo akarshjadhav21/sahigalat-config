@@ -6,268 +6,765 @@
     "science": {
      "u": {
       "0": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-en/jesc101.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jesc1-ncert/jesc101.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jesc101.pdf"
       },
       "1": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-en/jesc102.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jesc1-ncert/jesc102.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jesc102.pdf"
       },
       "2": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-en/jesc103.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jesc1-ncert/jesc103.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jesc103.pdf"
       },
       "3": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-en/jesc104.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jesc1-ncert/jesc104.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jesc104.pdf"
       },
       "4": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-en/jesc105.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jesc1-ncert/jesc105.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jesc105.pdf"
       },
       "5": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-en/jesc106.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jesc1-ncert/jesc106.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jesc106.pdf"
       },
       "6": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-en/jesc107.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jesc1-ncert/jesc107.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jesc107.pdf"
       },
       "7": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-en/jesc108.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jesc1-ncert/jesc108.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jesc108.pdf"
       },
       "8": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-en/jesc109.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jesc1-ncert/jesc109.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jesc109.pdf"
       },
       "9": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-en/jesc110.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jesc1-ncert/jesc110.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jesc110.pdf"
       },
       "10": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-en/jesc111.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jesc1-ncert/jesc111.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jesc111.pdf"
       },
       "11": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-en/jesc112.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jesc1-ncert/jesc112.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jesc112.pdf"
       },
       "12": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-en/jesc113.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jesc1-ncert/jesc113.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jesc113.pdf"
       }
      },
      "h": {
       "0": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-hi/jhsc101.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhsc1-ncert/jhsc101.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhsc101.pdf"
       },
       "1": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-hi/jhsc102.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhsc1-ncert/jhsc102.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhsc102.pdf"
       },
       "2": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-hi/jhsc103.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhsc1-ncert/jhsc103.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhsc103.pdf"
       },
       "3": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-hi/jhsc104.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhsc1-ncert/jhsc104.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhsc104.pdf"
       },
       "4": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-hi/jhsc105.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhsc1-ncert/jhsc105.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhsc105.pdf"
       },
       "5": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-hi/jhsc106.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhsc1-ncert/jhsc106.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhsc106.pdf"
       },
       "6": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-hi/jhsc107.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhsc1-ncert/jhsc107.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhsc107.pdf"
       },
       "7": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-hi/jhsc108.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhsc1-ncert/jhsc108.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhsc108.pdf"
       },
       "8": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-hi/jhsc109.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhsc1-ncert/jhsc109.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhsc109.pdf"
       },
       "9": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-hi/jhsc110.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhsc1-ncert/jhsc110.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhsc110.pdf"
       },
       "10": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-hi/jhsc111.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhsc1-ncert/jhsc111.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhsc111.pdf"
       },
       "11": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-hi/jhsc112.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhsc1-ncert/jhsc112.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhsc112.pdf"
       },
       "12": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-science-hi/jhsc113.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhsc1-ncert/jhsc113.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhsc113.pdf"
+      }
+     },
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jesc1-ncert/jesc1full.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jesc1ps.pdf"
+      },
+      "h": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhsc1-ncert/jhsc1full.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jhsc1ps.pdf"
       }
      }
     },
     "maths": {
      "u": {
       "0": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-en/jemh101.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jemh1-ncert/jemh101.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jemh101.pdf"
       },
       "1": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-en/jemh102.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jemh1-ncert/jemh102.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jemh102.pdf"
       },
       "2": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-en/jemh103.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jemh1-ncert/jemh103.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jemh103.pdf"
       },
       "3": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-en/jemh104.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jemh1-ncert/jemh104.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jemh104.pdf"
       },
       "4": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-en/jemh105.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jemh1-ncert/jemh105.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jemh105.pdf"
       },
       "5": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-en/jemh106.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jemh1-ncert/jemh106.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jemh106.pdf"
       },
       "6": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-en/jemh107.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jemh1-ncert/jemh107.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jemh107.pdf"
       },
       "7": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-en/jemh108.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jemh1-ncert/jemh108.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jemh108.pdf"
       },
       "8": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-en/jemh109.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jemh1-ncert/jemh109.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jemh109.pdf"
       },
       "9": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-en/jemh110.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jemh1-ncert/jemh110.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jemh110.pdf"
       },
       "10": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-en/jemh111.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jemh1-ncert/jemh111.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jemh111.pdf"
       },
       "11": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-en/jemh112.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jemh1-ncert/jemh112.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jemh112.pdf"
       },
       "12": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-en/jemh113.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jemh1-ncert/jemh113.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jemh113.pdf"
       },
       "13": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-en/jemh114.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jemh1-ncert/jemh114.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jemh114.pdf"
       }
      },
      "h": {
       "0": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-hi/jhmh101.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhmh1-ncert/jhmh101.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhmh101.pdf"
       },
       "1": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-hi/jhmh102.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhmh1-ncert/jhmh102.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhmh102.pdf"
       },
       "2": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-hi/jhmh103.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhmh1-ncert/jhmh103.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhmh103.pdf"
       },
       "3": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-hi/jhmh104.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhmh1-ncert/jhmh104.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhmh104.pdf"
       },
       "4": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-hi/jhmh105.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhmh1-ncert/jhmh105.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhmh105.pdf"
       },
       "5": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-hi/jhmh106.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhmh1-ncert/jhmh106.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhmh106.pdf"
       },
       "6": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-hi/jhmh107.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhmh1-ncert/jhmh107.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhmh107.pdf"
       },
       "7": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-hi/jhmh108.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhmh1-ncert/jhmh108.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhmh108.pdf"
       },
       "8": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-hi/jhmh109.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhmh1-ncert/jhmh109.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhmh109.pdf"
       },
       "9": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-hi/jhmh110.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhmh1-ncert/jhmh110.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhmh110.pdf"
       },
       "10": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-hi/jhmh111.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhmh1-ncert/jhmh111.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhmh111.pdf"
       },
       "11": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-hi/jhmh112.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhmh1-ncert/jhmh112.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhmh112.pdf"
       },
       "12": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-hi/jhmh113.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhmh1-ncert/jhmh113.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhmh113.pdf"
       },
       "13": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-maths-hi/jhmh114.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhmh1-ncert/jhmh114.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jhmh114.pdf"
+      }
+     },
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jemh1-ncert/jemh1full.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jemh1ps.pdf"
+      },
+      "h": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhmh1-ncert/jhmh1full.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jhmh1ps.pdf"
       }
      }
     },
     "english": {
      "u": {
       "0": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-english/jeff101.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jeff1-ncert/jeff101.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jeff101.pdf"
       },
       "1": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-english/jeff102.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jeff1-ncert/jeff102.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jeff102.pdf"
       },
       "2": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-english/jeff103.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jeff1-ncert/jeff103.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jeff103.pdf"
       },
       "3": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-english/jeff104.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jeff1-ncert/jeff104.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jeff104.pdf"
       },
       "4": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-english/jeff105.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jeff1-ncert/jeff105.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jeff105.pdf"
       },
       "5": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-english/jeff106.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jeff1-ncert/jeff106.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jeff106.pdf"
       },
       "6": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-english/jeff107.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jeff1-ncert/jeff107.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jeff107.pdf"
       },
       "7": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-english/jeff108.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jeff1-ncert/jeff108.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jeff108.pdf"
       },
       "8": {
-       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ncert-cl10-english/jeff109.pdf",
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jeff1-ncert/jeff109.pdf",
        "o": "https://ncert.nic.in/textbook/pdf/jeff109.pdf"
+      }
+     },
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jeff1-ncert/jeff1full.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jeff1ps.pdf"
+      }
+     }
+    },
+    "hin": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhsy1-ncert/jhsy1full.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jhsy1ps.pdf"
+      },
+      "h": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhsy1-ncert/jhsy1full.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jhsy1ps.pdf"
+      }
+     }
+    },
+    "sanskrit": {}
+   },
+   "6": {
+    "science": {
+     "u": {
+      "0": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fecu1-ncert/fecu101.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fecu101.pdf"
+      },
+      "1": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fecu1-ncert/fecu102.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fecu102.pdf"
+      },
+      "2": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fecu1-ncert/fecu103.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fecu103.pdf"
+      },
+      "3": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fecu1-ncert/fecu104.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fecu104.pdf"
+      },
+      "4": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fecu1-ncert/fecu105.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fecu105.pdf"
+      },
+      "5": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fecu1-ncert/fecu106.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fecu106.pdf"
+      },
+      "6": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fecu1-ncert/fecu107.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fecu107.pdf"
+      },
+      "7": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fecu1-ncert/fecu108.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fecu108.pdf"
+      },
+      "8": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fecu1-ncert/fecu109.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fecu109.pdf"
+      }
+     },
+     "h": {
+      "0": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhcu1-ncert/fhcu101.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhcu101.pdf"
+      },
+      "1": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhcu1-ncert/fhcu102.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhcu102.pdf"
+      },
+      "2": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhcu1-ncert/fhcu103.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhcu103.pdf"
+      },
+      "3": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhcu1-ncert/fhcu104.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhcu104.pdf"
+      },
+      "4": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhcu1-ncert/fhcu105.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhcu105.pdf"
+      },
+      "5": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhcu1-ncert/fhcu106.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhcu106.pdf"
+      }
+     }
+    },
+    "maths": {
+     "u": {},
+     "h": {
+      "0": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhgp1-ncert/fhgp101.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhgp101.pdf"
+      },
+      "1": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhgp1-ncert/fhgp102.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhgp102.pdf"
+      },
+      "2": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhgp1-ncert/fhgp103.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhgp103.pdf"
+      },
+      "3": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhgp1-ncert/fhgp104.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhgp104.pdf"
+      }
+     }
+    },
+    "social": {
+     "u": {},
+     "h": {
+      "0": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhes1-ncert/fhes101.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhes101.pdf"
+      },
+      "1": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhes1-ncert/fhes102.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhes102.pdf"
+      },
+      "2": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhes1-ncert/fhes103.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhes103.pdf"
+      },
+      "3": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhes1-ncert/fhes104.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhes104.pdf"
+      },
+      "4": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhes1-ncert/fhes105.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhes105.pdf"
+      },
+      "5": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhes1-ncert/fhes106.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhes106.pdf"
+      },
+      "6": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhes1-ncert/fhes107.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhes107.pdf"
+      },
+      "7": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhes1-ncert/fhes108.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhes108.pdf"
+      },
+      "8": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhes1-ncert/fhes109.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhes109.pdf"
+      },
+      "9": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhes1-ncert/fhes110.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhes110.pdf"
+      },
+      "10": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhes1-ncert/fhes111.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhes111.pdf"
+      },
+      "11": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/fhes1-ncert/fhes112.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/fhes112.pdf"
+      }
+     }
+    },
+    "english": {
+     "u": {}
+    },
+    "hin": {},
+    "sanskrit": {}
+   },
+   "7": {
+    "science": {
+     "u": {
+      "0": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/gecu1-ncert/gecu101.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/gecu101.pdf"
+      },
+      "1": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/gecu1-ncert/gecu102.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/gecu102.pdf"
+      },
+      "2": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/gecu1-ncert/gecu103.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/gecu103.pdf"
+      },
+      "3": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/gecu1-ncert/gecu104.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/gecu104.pdf"
+      },
+      "4": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/gecu1-ncert/gecu105.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/gecu105.pdf"
+      },
+      "5": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/gecu1-ncert/gecu106.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/gecu106.pdf"
+      },
+      "6": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/gecu1-ncert/gecu107.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/gecu107.pdf"
+      }
+     },
+     "h": {
+      "0": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ghcu1-ncert/ghcu101.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/ghcu101.pdf"
+      }
+     }
+    },
+    "maths": {
+     "u": {
+      "0": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/gegp2-ncert/gegp201.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/gegp201.pdf"
+      },
+      "1": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/gegp2-ncert/gegp202.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/gegp202.pdf"
+      },
+      "2": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/gegp2-ncert/gegp203.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/gegp203.pdf"
+      },
+      "3": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/gegp2-ncert/gegp204.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/gegp204.pdf"
+      },
+      "4": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/gegp2-ncert/gegp205.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/gegp205.pdf"
+      }
+     },
+     "h": {}
+    },
+    "english": {},
+    "hin": {},
+    "sanskrit": {}
+   },
+   "8": {
+    "science": {
+     "u": {
+      "0": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hecu1-ncert/hecu101.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hecu101.pdf"
+      },
+      "1": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hecu1-ncert/hecu102.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hecu102.pdf"
+      },
+      "2": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hecu1-ncert/hecu103.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hecu103.pdf"
+      },
+      "3": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hecu1-ncert/hecu104.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hecu104.pdf"
+      },
+      "4": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hecu1-ncert/hecu105.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hecu105.pdf"
+      }
+     },
+     "h": {
+      "0": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hhcu1-ncert/hhcu101.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hhcu101.pdf"
+      },
+      "1": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hhcu1-ncert/hhcu102.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hhcu102.pdf"
+      },
+      "2": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hhcu1-ncert/hhcu103.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hhcu103.pdf"
+      },
+      "3": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hhcu1-ncert/hhcu104.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hhcu104.pdf"
+      },
+      "4": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hhcu1-ncert/hhcu105.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hhcu105.pdf"
+      },
+      "5": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hhcu1-ncert/hhcu106.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hhcu106.pdf"
+      }
+     }
+    },
+    "maths": {
+     "u": {},
+     "h": {}
+    },
+    "english": {
+     "u": {
+      "0": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hehd1-ncert/hehd101.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hehd101.pdf"
+      },
+      "1": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hehd1-ncert/hehd102.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hehd102.pdf"
+      },
+      "2": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hehd1-ncert/hehd103.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hehd103.pdf"
+      },
+      "3": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hehd1-ncert/hehd104.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hehd104.pdf"
+      },
+      "4": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hehd1-ncert/hehd105.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hehd105.pdf"
+      },
+      "5": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hehd1-ncert/hehd106.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hehd106.pdf"
+      }
+     }
+    },
+    "hin": {},
+    "sanskrit": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hhsk1-ncert/hhsk1full.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hhsk1ps.pdf"
+      },
+      "h": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hhsk1-ncert/hhsk1full.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hhsk1ps.pdf"
+      }
+     }
+    }
+   },
+   "9": {
+    "science": {
+     "u": {
+      "0": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iesc1-ncert/iesc101.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iesc101.pdf"
+      }
+     },
+     "h": {}
+    },
+    "maths": {
+     "u": {
+      "0": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iemh1-ncert/iemh101.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iemh101.pdf"
+      },
+      "1": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iemh1-ncert/iemh102.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iemh102.pdf"
+      },
+      "2": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iemh1-ncert/iemh103.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iemh103.pdf"
+      },
+      "3": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iemh1-ncert/iemh104.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iemh104.pdf"
+      },
+      "4": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iemh1-ncert/iemh105.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iemh105.pdf"
+      },
+      "5": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iemh1-ncert/iemh106.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iemh106.pdf"
+      },
+      "6": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iemh1-ncert/iemh107.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iemh107.pdf"
+      },
+      "7": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iemh1-ncert/iemh108.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iemh108.pdf"
+      }
+     },
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iemh1-ncert/iemh1full.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iemh1ps.pdf"
+      },
+      "h": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ihmh1-ncert/ihmh1full.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/ihmh1ps.pdf"
+      }
+     },
+     "h": {
+      "0": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ihmh1-ncert/ihmh101.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/ihmh101.pdf"
+      },
+      "1": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ihmh1-ncert/ihmh102.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/ihmh102.pdf"
+      },
+      "2": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ihmh1-ncert/ihmh103.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/ihmh103.pdf"
+      },
+      "3": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ihmh1-ncert/ihmh104.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/ihmh104.pdf"
+      },
+      "4": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ihmh1-ncert/ihmh105.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/ihmh105.pdf"
+      },
+      "5": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ihmh1-ncert/ihmh106.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/ihmh106.pdf"
+      },
+      "6": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ihmh1-ncert/ihmh107.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/ihmh107.pdf"
+      },
+      "7": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ihmh1-ncert/ihmh108.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/ihmh108.pdf"
+      }
+     }
+    },
+    "english": {
+     "u": {
+      "0": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iebe1-ncert/iebe101.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iebe101.pdf"
+      },
+      "1": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iebe1-ncert/iebe102.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iebe102.pdf"
+      },
+      "2": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iebe1-ncert/iebe103.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iebe103.pdf"
+      },
+      "3": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iebe1-ncert/iebe104.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iebe104.pdf"
+      },
+      "4": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iebe1-ncert/iebe105.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iebe105.pdf"
+      },
+      "5": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iebe1-ncert/iebe106.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iebe106.pdf"
+      },
+      "6": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iebe1-ncert/iebe107.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iebe107.pdf"
+      },
+      "7": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iebe1-ncert/iebe108.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iebe108.pdf"
+      }
+     },
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iebe1-ncert/iebe1full.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iebe1ps.pdf"
+      }
+     }
+    },
+    "hin": {},
+    "sanskrit": {
+     "full": {
+      "u": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ihsh1-ncert/ihsh1full.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/ihsh1ps.pdf"
+      },
+      "h": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/ihsh1-ncert/ihsh1full.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/ihsh1ps.pdf"
       }
      }
     }
@@ -277,7 +774,8 @@
  "_meta": {
   "verified": "2026-08-25",
   "mirrored": "2026-08-25",
-  "format": "v2: m=mirror(our storage), o=official",
-  "note": "cl6-9 pending TOC update to new NEP books; more boards added as data-only"
+  "format": "v2.1: m=mirror, o=official; subj.full = whole-book (new apps only)",
+  "note": "wave1: NCERT cl6-10 sci/mat/soc/eng per-chapter + full books; hin/san full-only; soc 6-8 approximate index mapping to integrated new editions",
+  "books": 72
  }
 }
