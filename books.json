@@ -297,7 +297,80 @@
       }
      }
     },
-    "hin": {
+    "social": {
+     "u": {
+      "0": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess3-ncert/jess301.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess301.pdf"
+      },
+      "1": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess3-ncert/jess302.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess302.pdf"
+      },
+      "2": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess3-ncert/jess303.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess303.pdf"
+      },
+      "3": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess3-ncert/jess304.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess304.pdf"
+      },
+      "4": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess1-ncert/jess101.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess101.pdf"
+      },
+      "5": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess1-ncert/jess102.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess102.pdf"
+      },
+      "6": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess1-ncert/jess103.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess103.pdf"
+      },
+      "7": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess1-ncert/jess104.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess104.pdf"
+      },
+      "8": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess1-ncert/jess105.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess105.pdf"
+      },
+      "9": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess4-ncert/jess401.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess401.pdf"
+      },
+      "10": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess4-ncert/jess402.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess402.pdf"
+      },
+      "11": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess4-ncert/jess403.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess403.pdf"
+      },
+      "12": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess4-ncert/jess404.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess404.pdf"
+      },
+      "13": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess2-ncert/jess201.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess201.pdf"
+      },
+      "14": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess2-ncert/jess202.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess202.pdf"
+      },
+      "15": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess2-ncert/jess203.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess203.pdf"
+      },
+      "16": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess2-ncert/jess204.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess204.pdf"
+      }
+     },
+     "h": {}
+    },
+    "hindi": {
      "full": {
       "u": {
        "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jhsy1-ncert/jhsy1full.pdf",
@@ -455,7 +528,7 @@
     "english": {
      "u": {}
     },
-    "hin": {},
+    "hindi": {},
     "sanskrit": {}
    },
    "7": {
@@ -522,8 +595,29 @@
      },
      "h": {}
     },
+    "social": {
+     "u": {
+      "0": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/gees1-ncert/gees101.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/gees101.pdf"
+      },
+      "1": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/gees1-ncert/gees102.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/gees102.pdf"
+      },
+      "12": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/gees2-ncert/gees201.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/gees201.pdf"
+      },
+      "13": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/gees2-ncert/gees202.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/gees202.pdf"
+      }
+     },
+     "h": {}
+    },
     "english": {},
-    "hin": {},
+    "hindi": {},
     "sanskrit": {}
    },
    "8": {
@@ -581,6 +675,15 @@
      "u": {},
      "h": {}
     },
+    "social": {
+     "u": {
+      "7": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/hees2-ncert/hees201.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/hees201.pdf"
+      }
+     },
+     "h": {}
+    },
     "english": {
      "u": {
       "0": {
@@ -609,7 +712,7 @@
       }
      }
     },
-    "hin": {},
+    "hindi": {},
     "sanskrit": {
      "full": {
       "u": {
@@ -713,6 +816,75 @@
       }
      }
     },
+    "social": {
+     "u": {
+      "0": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess3-ncert/jess301.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess301.pdf"
+      },
+      "1": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess3-ncert/jess302.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess302.pdf"
+      },
+      "2": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess3-ncert/jess303.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess303.pdf"
+      },
+      "3": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess3-ncert/jess304.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess304.pdf"
+      },
+      "4": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess1-ncert/jess101.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess101.pdf"
+      },
+      "5": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess1-ncert/jess102.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess102.pdf"
+      },
+      "6": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess1-ncert/jess103.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess103.pdf"
+      },
+      "7": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess1-ncert/jess104.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess104.pdf"
+      },
+      "8": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iest1-ncert/iest101.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iest101.pdf"
+      },
+      "9": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iest1-ncert/iest102.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iest102.pdf"
+      },
+      "10": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iest1-ncert/iest103.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iest103.pdf"
+      },
+      "11": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/iest1-ncert/iest104.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/iest104.pdf"
+      },
+      "12": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess2-ncert/jess201.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess201.pdf"
+      },
+      "13": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess2-ncert/jess202.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess202.pdf"
+      },
+      "14": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess2-ncert/jess203.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess203.pdf"
+      },
+      "15": {
+       "m": "https://github.com/akarshjadhav21/sahigalat-books/releases/download/jess2-ncert/jess204.pdf",
+       "o": "https://ncert.nic.in/textbook/pdf/jess204.pdf"
+      }
+     },
+     "h": {}
+    },
     "english": {
      "u": {
       "0": {
@@ -755,7 +927,7 @@
       }
      }
     },
-    "hin": {},
+    "hindi": {},
     "sanskrit": {
      "full": {
       "u": {
